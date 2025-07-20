@@ -1,13 +1,3 @@
-```markdown
-```python
-class Hadi:
-    name = "Hadi Dadashzade"
-    age = 18
-    from_ = "Iran 🇮🇷"
-    focus = ["Python", "AI", "Automation"]
-    learning = ["Flask", "Git", "Freelance Skills"]
-```
-
 * 🎓 Taking [CS50's AI Course](https://cs50.harvard.edu/ai/)
 * 🧠 Love solving real problems with code
 * 👨‍💻 Working on audio tools, AI utilities & freelance-ready apps
@@ -68,4 +58,13 @@ class Hadi:
 <p align="center">
   🚀 Keep coding, keep learning, keep building.
 </p>
+## 🚀 About Me
+
+```python
+class Hadi:
+    name = "Hadi Dadashzade"
+    age = 18
+    from_ = "Iran 🇮🇷"
+    focus = ["Python", "AI", "Automation"]
+    learning = ["Flask", "Git", "Freelance Skills"]
 ```
