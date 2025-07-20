@@ -23,8 +23,9 @@ class Hadi:
 ![MoviePy](https://img.shields.io/badge/MoviePy-video-orange?style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-computer--vision-lightgrey?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-design-critical?style=for-the-badge\&logo=figma\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-design-critical?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
