@@ -6,7 +6,7 @@ class Hadi:
     from_ = "Iran 🇮🇷"
     focus = ["Python", "AI", "Automation"]
     learning = ["Flask", "Git", "Freelance Skills"]
-
+```
 
 * 🎓 Taking [CS50's AI Course](https://cs50.harvard.edu/ai/)
 * 🧠 Love solving real problems with code
@@ -18,7 +18,7 @@ class Hadi:
 
 ## 🧰 Tech Toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-AI-blueviolet?style=for-the-badge)
 ![MoviePy](https://img.shields.io/badge/MoviePy-video-orange?style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
