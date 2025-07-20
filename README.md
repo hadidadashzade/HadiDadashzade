@@ -1,13 +1,4 @@
-
-
-````markdown 
-<h1 align="center">🧠 Hadi Dadashzade</h1>
-<p align="center">Python Developer · AI Student · Creative Problem Solver</p>
-
----
-
-## 🚀 About Me
-
+```markdown
 ```python
 class Hadi:
     name = "Hadi Dadashzade"
@@ -15,7 +6,7 @@ class Hadi:
     from_ = "Iran 🇮🇷"
     focus = ["Python", "AI", "Automation"]
     learning = ["Flask", "Git", "Freelance Skills"]
-````
+
 
 * 🎓 Taking [CS50's AI Course](https://cs50.harvard.edu/ai/)
 * 🧠 Love solving real problems with code
