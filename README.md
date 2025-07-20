@@ -49,17 +49,11 @@ class Hadi:
 
 ## 🌐 Connect with Me
 
-<a href="https://github.com/HadiDadashzade">
+<a href="https://github.com/hadidadashzade">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/hadi-dadashzade">
   <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/989123456789">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ---
