@@ -15,7 +15,8 @@ class Hadi:
     age = 18
     from_ = "Iran 🇮🇷"
     focus = ["Python", "AI", "Automation"]
-    learning = ["Flask", "Git", "Freelance Skills"]```
+    learning = ["Flask", "Git", "Freelance Skills"]
+```
 ````
 
 * 🎓 Taking [CS50's AI Course](https://cs50.harvard.edu/ai/)
